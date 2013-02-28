@@ -7,5 +7,4 @@ unless ENV['CI']
   end
 end
 
-require 'venice'
 require 'rspec'

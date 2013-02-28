@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'venice'
 
 RECEIPT_DATA = File.read(File.join(File.dirname(__FILE__), "receipt"))
 
